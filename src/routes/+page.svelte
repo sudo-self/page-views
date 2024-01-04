@@ -42,15 +42,7 @@
       <span><a href="https://kv.jessejesse.com">kv.JesseJesse.com</a></span>
   </div>
   <div class="flex flex-col grow">
-    <a href="https://vercel.com">
-      <img
-        src="/vercel.svg"
-        alt="Vercel Logo"
-        class="my-2 text-white dark:text-white"
-        width={100}
-        height={24}
-      />
-    </a>
+
     <a
       href="https://github.com/sudo-self/svelte"
       class="flex items-center h-8 mt-auto space-x-2 bottom-20 right-20"
