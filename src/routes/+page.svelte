@@ -47,15 +47,6 @@
     </a>
     <div class="flex items-center justify-center my-2">
       <span>built by svelte</span>
-      <a
-        href="https://svelte-webapp-tsw7.vercel.app"
-        class="flex items-center font-medium underline transition-colors underline-offset-4 dark:hover:text-white hover:text-black"
-      >
-        <img src="svelte_logo.png" alt="svelte logo" class="h-6 mx-2" />
-        <p>SvelteKit</p>
-      </a>
-      .
-    </div>
   </div>
   <div class="flex flex-col grow">
     <a href="https://vercel.com">
