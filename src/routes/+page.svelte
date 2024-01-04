@@ -29,7 +29,7 @@
       on:click={refreshPage}
       class="mb-6 font-bold underline opacity-70 hover:opacity-100"
     >
-      👽     
+      👽 Visitors     
     </button>
     <div class="text-5xl font-bold">
       {data?.pageVisits}
@@ -38,15 +38,9 @@
   <div
     class="w-full max-w-lg mt-6 font-light text-center text-gray-600 dark:text-gray-300"
   >
-   svelte
-    <a
-      href="https://svelte-webapp-tsw7.vercel.app/about"
-      class="font-medium underline transition-colors underline-offset-4 dark:hover:text-white hover:text-black"
-    >
-    
-    </a>
+ 
     <div class="flex items-center justify-center my-2">
-      <span>built by svelte</span>
+      <span><a href="https://kv.jessejesse.com">kv.JesseJesse.com</a></span>
   </div>
   <div class="flex flex-col grow">
     <a href="https://vercel.com">
@@ -63,7 +57,7 @@
       class="flex items-center h-8 mt-auto space-x-2 bottom-20 right-20"
     >
       <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" />
-      <p class="font-light">Source</p>
+      <p class="font-light">/sudo-self</p>
     </a>
   </div>
 </main>
