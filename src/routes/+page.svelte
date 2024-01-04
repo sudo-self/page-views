@@ -44,7 +44,7 @@
   <div class="flex flex-col grow">
 
     <a
-      href="https://github.com/sudo-self/"
+      href="https://webdev.jessejesse.com/"
       class="flex items-center h-8 mt-auto space-x-2 bottom-20 right-20"
     >
       <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" />
