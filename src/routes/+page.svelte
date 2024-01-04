@@ -9,7 +9,7 @@
   class="relative flex flex-col items-center justify-center min-h-screen py-10"
 >
   <a
-    href="https://JesseJesse"
+    href="https://sudo-self.vercel.app/"
     class="px-6 py-2 text-sm font-medium text-gray-600 transition-all rounded-full shadow-sm bg-white/30 dark:bg-white/80 ring-1 ring-gray-900/5 dark:text-black hover:shadow-lg active:shadow-sm"
   >
    ENTER
@@ -23,7 +23,7 @@
     class="flex flex-col items-center w-full max-w-xl p-12 mx-auto rounded-lg shadow-xl dark:bg-white/10 bg-white/30 ring-1 ring-gray-900/5 backdrop-blur-lg"
   >
     <div class="mb-6 text-lg text-center">
- Vercel kV
+ Vercel kV 
     </div>
     <button
       on:click={refreshPage}
@@ -39,7 +39,7 @@
   >
  
     <div class="flex items-center justify-center my-2">
-      <span><a href="https://kv.jessejesse.com">JesseJesse.com</a></span>
+      <span><a href="https://jessejesse.com">JesseJesse.com</a></span>
   </div>
   <div class="flex flex-col grow">
 
