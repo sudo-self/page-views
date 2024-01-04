@@ -9,7 +9,7 @@
   class="relative flex flex-col items-center justify-center min-h-screen py-10"
 >
   <a
-    href="https://jessejesse.com"
+    href="https://JesseJesse"
     class="px-6 py-2 text-sm font-medium text-gray-600 transition-all rounded-full shadow-sm bg-white/30 dark:bg-white/80 ring-1 ring-gray-900/5 dark:text-black hover:shadow-lg active:shadow-sm"
   >
    ENTER
@@ -17,7 +17,7 @@
   <h1
     class="pt-4 pb-8 bg-gradient-to-br dark:from-white from-black via-[#707070] to-[#ffffff] bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
   >
-   JesseJesse.com
+   JesseJesse
   </h1>
   <div
     class="flex flex-col items-center w-full max-w-xl p-12 mx-auto rounded-lg shadow-xl dark:bg-white/10 bg-white/30 ring-1 ring-gray-900/5 backdrop-blur-lg"
@@ -39,12 +39,12 @@
   >
  
     <div class="flex items-center justify-center my-2">
-      <span><a href="https://kv.jessejesse.com">kv.JesseJesse.com</a></span>
+      <span><a href="https://kv.jessejesse.com">JesseJesse.com</a></span>
   </div>
   <div class="flex flex-col grow">
 
     <a
-      href="https://github.com/sudo-self/svelte"
+      href="https://github.com/sudo-self/"
       class="flex items-center h-8 mt-auto space-x-2 bottom-20 right-20"
     >
       <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" />
