@@ -23,13 +23,12 @@
     class="flex flex-col items-center w-full max-w-xl p-12 mx-auto rounded-lg shadow-xl dark:bg-white/10 bg-white/30 ring-1 ring-gray-900/5 backdrop-blur-lg"
   >
     <div class="mb-6 text-lg text-center">
- Vercel KV
+ Vercel kV
     </div>
     <button
       on:click={refreshPage}
       class="mb-6 font-bold underline opacity-70 hover:opacity-100"
-    >
-      👽 Visitors     
+    >     
     </button>
     <div class="text-5xl font-bold">
       {data?.pageVisits}
