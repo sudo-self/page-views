@@ -1,8 +1,13 @@
 <script>
+
   export let data
   function refreshPage() {
-    location.reload()
+  location.reload()
   }
+  import Time, { svelteTime } from "svelte-time";
+	import { dayjs } from "svelte-time";
+	let time = dayjs().format('MMM DD, YYYY');
+
 </script>
 
 <main class="relative flex flex-col items-center justify-center min-h-screen py-10">
