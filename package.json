@@ -1,6 +1,6 @@
 {
   "name": "vercel-kv-sveltekit",
-  "repository": "https://github.com/vercel/examples.git",
+  "repository": "https://github.com/sudo-self/kv-redis-sveltekit.it",
   "license": "MIT",
   "version": "0.0.0",
   "private": true,
