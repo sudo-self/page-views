@@ -39,7 +39,7 @@
   >
  
     <div class="flex items-center justify-center my-2">
-      <span><a href="https://jessejesse.com">JesseJesse.com</a></span>
+      <span><a href="https://openai-ufo.vercel.app">OpenAi + Svelte + Vercel</a></span>
   </div>
   <div class="flex flex-col grow">
 
