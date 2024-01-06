@@ -48,12 +48,12 @@ JesseJesse.com
   <div class="flex flex-col grow">
 
     <a
-      href="https://webdev.jessejesse.com/"
+      href="https://bucket.jessejesse.com/nft.html"
       class="flex justify-center h-6 mt-auto space-x-2 bottom-20"
     >   
      <br>     <br>
      <br>
-    <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" /><div class="flex items-center justify-center my-2">/sudo-self&nbsp;&#169;2024</a>
+    <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" /><div class="flex items-center justify-center my-2">Unconventional NFT!&nbsp;f&nbsp;&#169;2024</a>
   </div>
 <time
   use:svelteTime="{{
