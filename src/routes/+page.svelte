@@ -39,7 +39,7 @@
   >
  
     <div class="flex items-center justify-center my-2">
-      <span><a href="https://openai-ufo.vercel.app"><pre>OpenAi + Svelte + Vercel + Redis</pre></a></span>
+      <span><a href="https://openai-ufo.vercel.app"><pre>OpenAi + Svelte&nbsp;<img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" />&nbsp;Vercel + Redis</pre></a></span>
   </div>
   <div class="flex flex-col grow">
 
@@ -47,8 +47,7 @@
       href="https://webdev.jessejesse.com/"
       class="flex items-center h-8 mt-auto space-x-2 bottom-20"
     >   
-    <p class="font-light items-center"></p>JR<img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" />
- 
-    </a>
+     
+   <div class="flex items-center justify-center my-2">&#169;2024</a>
   </div>
 </main>
