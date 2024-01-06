@@ -46,9 +46,9 @@
     <a
       href="https://webdev.jessejesse.com/"
       class="flex items-center h-8 mt-auto space-x-2 bottom-20"
-    ><br>
-      <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" />
-      <p class="font-light items-center">/sudo-self</p>
+    >   
+    <p class="font-light items-center"></p>JR<img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" />
+ 
     </a>
   </div>
 </main>
