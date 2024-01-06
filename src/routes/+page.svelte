@@ -24,8 +24,8 @@
   >
     <div class="mb-6 text-lg text-center">
 ᗧ···ᗣ···ᗣ····♥···ᗣ····
-</div>                |
-    <button           |
+</div>                
+    <button           
       on:click={refreshPage}
       class="mb-6 font-bold underline opacity-70 hover:opacity-100"
     >     
@@ -35,7 +35,7 @@
     </div>
 <br>
     <div class="flex items-center justify-center my-2">
-      <span><a href="https://openai-ufo.vercel.app"><pre>OpenAi + Svelte + Vercel + Tailwind</pre></a></span>
+      <span><a href="https://openai-ufo.vercel.app"><pre>OpenAi +Svelte Vercel Tailwind</pre></a></span>
   </div>
 </div>
 
@@ -49,9 +49,11 @@
       href="https://webdev.jessejesse.com/"
       class="flex justify-center h-6 mt-auto space-x-2 bottom-20"
     >   
+     <br>     <br>
      <br>
-     <br>
-     <br>
-    <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" /><div class="flex items-center justify-center my-2">/sudo-self&nbsp;&#169;2024</a>
+    <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" /><div class="flex items-center justify-center my-2">/♛ ♜ ♝ ♞ ♔ ♖ ♘&#169;2024</a>
   </div>
 </main>
+
+
+
