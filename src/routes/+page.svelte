@@ -7,7 +7,7 @@
 
 <main class="relative flex flex-col items-center justify-center min-h-screen py-10">
   <a href="https://sudo-self.vercel.app/"
-    class="px-6 py-2 text-sm font-medium text-gray-600 transition-all rounded-full shadow-sm bg-white/30 dark:bg-white/80 ring-1 ring-gray-900/5 dark:text-black hover:shadow-lg active:shadow-sm hover:text-vampire-red">
+    class="px-6 py-2 text-sm font-medium text-gray-600 transition-all rounded-full shadow-sm bg-white/30 dark:bg-white/80 ring-1 ring-gray-900/5 dark:text-black hover:shadow-lg active:shadow-sm hover:text-emerald-700">
     ENTER
   </a>
 </main>
