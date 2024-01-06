@@ -15,7 +15,7 @@
    ENTER
   </a>
   <h1
-    class="pt-4 pb-8 bg-gradient-to-br dark:from-white from-black via-[#707070] to-[#ffffff] bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
+    class="pt-4 pb-8 bg-gradient-to-br dark:from-white from-black via-[#707070] to-[#ffffff] bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 opacity-0 transition duration-300 ease-in-out hover:opacity-70
   >
    JesseJesse.com
   </h1>
@@ -51,7 +51,7 @@
     >   
      <br>     <br>
      <br>
-    <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" /><div class="flex items-center justify-center my-2">/♛ ♜ ♝ ♞ ♔ ♖ ♘&#169;2024</a>
+    <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" /><div class="flex items-center justify-center my-2">/sudo-self&nbsp;&#169;2024</a>
   </div>
 </main>
 
