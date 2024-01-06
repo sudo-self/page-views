@@ -45,9 +45,11 @@
 
     <a
       href="https://webdev.jessejesse.com/"
-      class="flex items-center h-8 mt-auto space-x-2 bottom-20"
+      class="flex justify-center h-6 mt-auto space-x-2 bottom-20"
     >   
-     
+     <br>
+     <br>
+     <br>
     <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" /><div class="flex items-center justify-center my-2">&#169;2024</a>
   </div>
 </main>
