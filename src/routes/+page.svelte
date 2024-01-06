@@ -23,9 +23,9 @@
     class="flex flex-col items-center w-full max-w-xl p-12 mx-auto rounded-lg shadow-xl dark:bg-white/10 bg-white/30 ring-1 ring-gray-900/5 backdrop-blur-lg"
   >
     <div class="mb-6 text-lg text-center">
-ᗧ···ᗣ···ᗣ····♥
-</div>
-    <button
+ᗧ···ᗣ···ᗣ····♥···ᗣ····
+</div>                |
+    <button           |
       on:click={refreshPage}
       class="mb-6 font-bold underline opacity-70 hover:opacity-100"
     >     
