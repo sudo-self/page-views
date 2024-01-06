@@ -37,7 +37,7 @@ JesseJesse.com
     </div>
 <br>
     <div class="flex items-center justify-center my-2">
-      <span><a href="https://openai-ufo.vercel.app"><pre>OpenAi +Svelte Vercel Tailwind</pre></a></span>
+      <span><a href="https://openai-ufo.vercel.app">[[<pre>AiChat + Svelte + Vercel + Tailwind</pre></a>]]</span>
   </div>
 </div>
 
