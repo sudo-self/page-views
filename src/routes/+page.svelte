@@ -55,7 +55,12 @@ JesseJesse.com
      <br>
     <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" /><div class="flex items-center justify-center my-2">/sudo-self&nbsp;&#169;2024</a>
   </div>
-</main>
+<time
+  use:svelteTime="{{
+    relative: true,
+    timestamp: "2021-02-02",
+  }}"
+/></main>
 
 
 
