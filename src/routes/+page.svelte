@@ -39,7 +39,7 @@
   >
  
     <div class="flex items-center justify-center my-2">
-      <span><a href="https://openai-ufo.vercel.app">OpenAi + Svelte + Vercel + Redis KV</a></span>
+      <span><a href="https://openai-ufo.vercel.app"><pre>OpenAi + Svelte + Vercel + Redis</pre></a></span>
   </div>
   <div class="flex flex-col grow">
 
