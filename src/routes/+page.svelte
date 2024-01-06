@@ -33,7 +33,10 @@
     <div class="text-5xl font-bold">
       {data?.pageVisits}
     </div>
+    <div class="flex items-center justify-center my-2">
+      <span><a href="https://openai-ufo.vercel.app"><pre>OpenAi + Svelte + Vercel + Redis</pre></a></span>
   </div>
+
   <div
     class="w-full max-w-lg mt-6 font-light text-center text-gray-600 dark:text-gray-300"
   >
