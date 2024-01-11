@@ -48,7 +48,7 @@ JesseJesse.com
   <div class="flex flex-col grow">
 
     <a
-      https://content-wind-steel.vercel.app/unconventional"
+      https://content-wind-steel.vercel.app/"
       class="flex justify-center h-6 mt-auto space-x-2 bottom-20"
     >   
      <br>     <br>
