@@ -39,7 +39,7 @@ JesseJesse.com
   </div>
 <br>
     <div class="flex items-center justify-center my-2">
-      <span><a href="https://openai-ufo.vercel.app">[ETH:<pre>0x42e909247f1D0Db0BA946C9c4aAe8753eA96Aa82</pre></a>]</span>
+      <span><a href="https://openai-ufo.vercel.app">ETH:<pre>0x42e909247f1D0Db0BA946C9c4aAe8753eA96Aa82</pre></a></span>
   </div>
 </div>
 
