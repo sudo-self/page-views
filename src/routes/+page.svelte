@@ -21,12 +21,14 @@
   >
 JesseJesse.com
   </h1>
+  </h1>
   <div
     class="flex flex-col items-center w-full max-w-xl p-12 mx-auto rounded-lg shadow-xl dark:bg-white/10 bg-white/30 ring-1 ring-gray-900/5 backdrop-blur-lg"
   >
     <div class="mb-6 text-lg text-center">
-ᗧ···ᗣ···ᗣ····♥···ᗣ····
-</div>
+  
+    
+    </div>
     <button
       on:click={refreshPage}
       class="mb-6 font-bold underline opacity-70 hover:opacity-100"
@@ -37,32 +39,47 @@ JesseJesse.com
       {data?.pageVisits}
     </div>
   </div>
-<br>
-    <div class="flex items-center justify-center my-2">
-      <span><a href="https://openai-ufo.vercel.app">ETH:<pre>0x42e909247f1D0Db0BA946C9c4aAe8753eA96Aa82</pre></a></span>
-  </div>
-</div>
-
   <div
     class="w-full max-w-lg mt-6 font-light text-center text-gray-600 dark:text-gray-300"
   >
- <br>
-  <div class="flex flex-col grow">
-
+    ETH: 0x097e0dda06abc2ecfac77f4af56eecc5a80cb68f
     <a
-      https://content-wind-steel.vercel.app/"
-      class="flex justify-center h-6 mt-auto space-x-2 bottom-20"
-    >   
-     <br>     <br>
-     <br>
-    <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" /><div class="flex items-center justify-center my-2">Unconventional NFT!&nbsp;f&nbsp;&#169;2024</a>
+      href="https://rarible.com/token/0xc9154424b823b10579895ccbe442d41b9abd96ed:4293533968084887940418635492547144507113596156710918506364799290880552861698"
+      class="font-medium underline transition-colors underline-offset-4 dark:hover:text-white hover:text-black"
+    >
+     NFT
+    </a>
+    <div class="flex items-center justify-center my-2">
+      <span>Built with&nbsp;&#10084;&nbsp;</span>
+      <a
+        href="https://openai-ufo.vercel.app"
+        class="flex items-center font-medium underline transition-colors underline-offset-4 dark:hover:text-white hover:text-black"
+      >
+        <img src="svelte_logo.png" alt="svelte logo" class="h-6 mx-2" />
+        <p>Open Ai Chat</p>
+      </a>
+      .
+    </div>
   </div>
-<time
-  use:svelteTime="{{
-    relative: true,
-    timestamp: "2021-02-02",
-  }}"
-/></main>
+  <div class="flex flex-col grow">
+    <a href="https://openai-ufo.vercel.app">
+      <img
+        src="/vercel.svg"
+        alt="Vercel Logo"
+        class="my-2 text-white dark:text-white"
+        width={100}
+        height={24}
+      />
+    </a>
+    <a
+      href="https://sudo-self.github.io/rustbook/"
+      class="flex items-center h-8 mt-auto space-x-2 bottom-20 right-20"
+    >
+      <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" />
+      <p class="font-light">sudo-self.github.io/</p>
+    </a>
+  </div>
+</main>
 
 
 
