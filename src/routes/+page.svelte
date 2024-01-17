@@ -26,15 +26,17 @@ JesseJesse.com
   >
     <div class="mb-6 text-lg text-center">
 ᗧ···ᗣ···ᗣ····♥···ᗣ····
-</div>                
-    <button           
+</div>
+    <button
       on:click={refreshPage}
       class="mb-6 font-bold underline opacity-70 hover:opacity-100"
-    >     
+    >
+     Refresh Page
     </button>
     <div class="text-5xl font-bold">
       {data?.pageVisits}
     </div>
+  </div>
 <br>
     <div class="flex items-center justify-center my-2">
       <span><a href="https://openai-ufo.vercel.app">[ETH:<pre>0x42e909247f1D0Db0BA946C9c4aAe8753eA96Aa82</pre></a>]</span>
