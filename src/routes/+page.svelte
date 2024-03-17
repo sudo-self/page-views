@@ -11,7 +11,7 @@
 </script>
 
 <main class="relative flex flex-col items-center justify-center min-h-screen py-10">
-  <a href="https://sudo-self.vercel.app/"
+  <a href="https://random-react.vercel.app/"
     class="px-6 py-2 text-sm font-medium text-green-700 transition-all rounded-full shadow-sm bg-white/30 dark:bg-white/80 ring-1 ring-green-700/5 dark:text-green hover:shadow-lg active:shadow-sm hover:text-emerald-700">
     ENTER
   </a>
